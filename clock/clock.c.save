@@ -1,0 +1,3 @@
+#include <wiringPi.h>
+#include <stdio.h>
+#define xung 
